@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testing hello
-=======
 test
->>>>>>> parent of 234a2d3... Second commit
